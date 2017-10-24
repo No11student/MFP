@@ -1,7 +1,4 @@
-﻿#!/usr/bin/env python27
-#-*-coding:utf-8-*-
-
-import sys 
+﻿import sys 
 class Rational0:
     def __init__(self,num,den = 1):
        
